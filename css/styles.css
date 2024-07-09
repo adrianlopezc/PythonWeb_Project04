@@ -61,7 +61,7 @@ body {
 
 /* Card image container */
 .card-img-top-container {
-  width: 100%;
+  width: 200px;
   height: 200px; /* Adjust as necessary */
   overflow: hidden;
   display: flex;
